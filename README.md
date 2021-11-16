@@ -1,7 +1,7 @@
 ### Hello my name is Thomas 👋
 
 
-Here are some ideas about me:
+Here is some information about me:
 
 - 🔭 I’m currently working on ... Mobile development
 - 🌱 I’m currently learning ... Flutter & Dart
