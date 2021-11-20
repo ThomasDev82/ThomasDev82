@@ -3,7 +3,7 @@
 
 Here is some information about me:
 
-- 🔭 I’m currently working on ... Full stack development
+- 🔭 I’m currently working on ... Mobile development and Full stack development
 - 🌱 I’m currently learning ... Flutter & Dart
 - 👯 I’m looking to collaborate on ... Help beginners 
 - 💬 Ask me about ... Anything!
