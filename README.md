@@ -3,7 +3,7 @@
 
 Here is some information about me:
 
-- 🐳 Flutter Developer ,
+- 🐳 Flutter Developer
 - 🌱 I’m currently learning ... Flutter & Dart
 - 👯 I’m looking to collaborate on ... Help beginners 
 - 💬 Ask me about ... Anything!
