@@ -1,4 +1,4 @@
-### Hello my name is Thomas 👋
+### Hello my name is Thomas 👋❤️
 
 
 Here is some information about me:
