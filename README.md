@@ -1,7 +1,7 @@
 ### Hello my friends 👋❤️
 
 
-<h1 align="center">Hi 👋, I'm Thomas matta</h1>
+<h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">🐳 Junior Flutter Developer</h3>
 
 - 🌱 I’m currently learning **Flutter & Dart**
