@@ -1,8 +1,3 @@
-### Hello my name is Thomas 👋❤️
-
-
-Here is some information about me:
-
 <h1 align="center">Hi 👋, I'm Thomas matta</h1>
 <h3 align="center">🐳 Junior Flutter Developer</h3>
 
@@ -16,8 +11,8 @@ Here is some information about me:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/thomasdev82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thomasdev82" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17236369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17236369" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thomas develops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thomas develops" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
