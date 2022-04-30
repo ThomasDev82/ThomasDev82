@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter & Dart**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ThomasDev82](https://github.com/ThomasDev82)
+- 👨‍💻 All of my projects are available at [https://github.com/ThomasDev82?tab=repositories](https://github.com/ThomasDev82?tab=repositories)
 
 - 💬 Ask me about **Anything bro 😀**
 
