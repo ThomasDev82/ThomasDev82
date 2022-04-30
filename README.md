@@ -1,8 +1,6 @@
 ### Hello my friends 👋❤️
 
 
-Here is some information about me:
-
 <h1 align="center">Hi 👋, I'm Thomas matta</h1>
 <h3 align="center">🐳 Junior Flutter Developer</h3>
 
