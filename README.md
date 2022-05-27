@@ -1,6 +1,10 @@
 ### Hello my friends 👋❤️
 
 
+![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
+
+
 <h1 align="center">Hi 👋, I'm Thomas matta</h1>
 <h3 align="center">🐳 Junior Flutter Developer</h3>
 
