@@ -27,6 +27,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasDev82&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ThomasDev82" /></p>
 
+<br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasDev82&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/ThomasDev82)  
