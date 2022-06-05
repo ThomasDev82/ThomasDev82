@@ -30,4 +30,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/ThomasDev82)  
 
-<img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/output/github-contribution-grid-snake.svg" />
+![snake gif](https://github.com/itsherifAhmed/itsherifAhmed/blob/output/github-contribution-grid-snake.gif)
