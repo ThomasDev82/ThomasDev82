@@ -7,7 +7,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px">, I'm Thomas matta</h1>
 <h3 align="center">🐳 Flutter Developer</h3>
 
-- 🌱 I’m currently learning **backend Development**
+- 🌱 I’m currently learning **Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ThomasDev82?tab=repositories](https://github.com/ThomasDev82?tab=repositories)
 
