@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **improve my problem solving skill**
 
-- 🔭 I’m currently working on **personal project**
+- 🔭 I’m currently working on **personal projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ThomasDev82?tab=repositories](https://github.com/ThomasDev82?tab=repositories)
 
