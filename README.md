@@ -7,7 +7,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px">, I'm Thomas matta</h1>
 <h3 align="center">🐳 Flutter Developer</h3>
 
-- 🌱 I’m currently learning **Development**
+- 🌱 I’m currently learning **improve my problem solving skill**
+
+- 🔭 I’m currently working on **personal project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ThomasDev82?tab=repositories](https://github.com/ThomasDev82?tab=repositories)
 
@@ -30,3 +32,5 @@
 ![Profile views](https://gpvc.arturio.dev/ThomasDev82)  
 
 ![snake gif](https://github.com/itsherifAhmed/itsherifAhmed/blob/output/github-contribution-grid-snake.gif)
+
+### Do you have an idea for an app? :bulb: Let's bring your idea to life! :tada:
