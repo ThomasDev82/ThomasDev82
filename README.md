@@ -1,9 +1,6 @@
 ### Hello my friends 👋❤️
 
 
-![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
-
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px">, I'm Thomas matta</h1>
 <h3 align="center">Software engineer</h3>
 
