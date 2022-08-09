@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://codepen.io/thomasdev82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thomasdev82" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17236369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17236369" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/thomasdev82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/thomasdev82" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/thomasdev82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thomasdev82" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
