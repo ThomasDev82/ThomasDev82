@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px">, I'm Thomas matta</h1>
 <h3 align="center">Android Native | Cross Platform Developer</h3>
 
-- 🌱 I’m currently learning **improve my problem solving skill**
+- 🌱 I’m currently learning **Android Native with Kotlin**
 
 - 🔭 I’m currently working on **personal projects**
 
