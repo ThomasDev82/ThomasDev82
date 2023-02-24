@@ -1,7 +1,7 @@
 ### Hello my friends 👋❤️
 
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px">, I'm Thomas matta</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px">, I'm Thomas</h1>
 <h3 align="center">Cross-platform software Developer</h3>
 
 - 🌱 I’m currently **improve my problem solving skills**
