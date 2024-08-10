@@ -22,4 +22,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasDev82&show_icons=true)   
 
+<img src="https://raw.githubusercontent.com/dj-man-2099/dj-man-2099/output/snake.svg" alt="Snake animation" />
+
 ### Do you have an idea for an app? :bulb: Let's bring your idea to life! :tada:
