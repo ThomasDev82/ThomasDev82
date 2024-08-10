@@ -7,10 +7,6 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ThomasDev82?tab=repositories](https://github.com/ThomasDev82?tab=repositories)
-
-- ⚡ Fun fact **Many owners of large tech companies loved video games as kids**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/thomasdev82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thomasdev82" height="30" width="40" /></a>
