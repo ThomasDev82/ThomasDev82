@@ -6,6 +6,7 @@
 
 
 - 🔭 I’m currently working on **personal projects**
+- 🎯 Goals: **go deep in flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
