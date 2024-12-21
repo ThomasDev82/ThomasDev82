@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px">, I'm Thomas</h1>
-<h3 align="center">developer</h3>
+<h3 align="center">cross platform mobile developer</h3>
 
 
 - 🔭 I’m currently working on **personal projects**
