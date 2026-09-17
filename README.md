@@ -24,8 +24,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ThomasDev82&show_icons=true&theme=radical&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasDev82&layout=compact&theme=radical&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ThomasDev82&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThomasDev82&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -34,4 +34,4 @@
 
 <img src="https://raw.githubusercontent.com/dj-man-2099/dj-man-2099/output/snake.svg" alt="Snake animation" />
 
-### Do you have an idea for an app? :bulb: 
+### Do you have an idea for an app? :bulb: Let's bring your idea to life! :tada:
