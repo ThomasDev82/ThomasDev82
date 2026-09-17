@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Thomas;Cross+Platform+Mobile+Developer;Aspiring+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Thomas;Cross+Platform+Mobile+Developer;Aspiring+Software+Engineer" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -24,8 +24,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ThomasDev82&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasDev82&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ThomasDev82&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasDev82&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -34,4 +34,4 @@
 
 <img src="https://raw.githubusercontent.com/dj-man-2099/dj-man-2099/output/snake.svg" alt="Snake animation" />
 
-### Do you have an idea for an app? :bulb: Let's bring your idea to life! :tada:
+### Do you have an idea for an app? :bulb: 
