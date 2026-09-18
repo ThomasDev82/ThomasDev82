@@ -6,8 +6,9 @@
   </a>
 </h1>
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I'm currently working on **personal projects**
 - 🎯 Goals: **improve my coding skills**
+- 📫 You can contact me at [thomasmatta.dev@gmail.com](mailto:thomasmatta.dev@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
