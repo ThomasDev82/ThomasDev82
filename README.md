@@ -31,8 +31,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasDev82&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Trophies:</h3>
+<img src="https://github.com/ThomasDev82/ThomasDev82/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ThomasDev82)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://github.com/ThomasDev82/ThomasDev82/raw/output/github-contribution-grid-snak
+### Do you have an idea for an app? :bulb: Let's bring your idea to life! :tada:
