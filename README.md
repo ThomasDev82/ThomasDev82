@@ -31,6 +31,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasDev82&theme=radical" alt="GitHub Streak" />
 </p>
 
+<h3 align="left">Most Used Languages:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasDev82&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
 <img src="https://github.com/ThomasDev82/ThomasDev82/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ### Do you have an idea for an app? :bulb: Let's bring your idea to life! :tada:
