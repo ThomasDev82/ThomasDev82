@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,dart,php,html,css,bootstrap,angular,react,nextjs,flutter,kotlin,git,linux,nodejs" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,dart,php,html,css,bootstrap,angular,react,nextjs,flutter,kotlin,androidstudio,git,linux,nodejs" />
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
